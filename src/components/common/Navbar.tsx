@@ -15,9 +15,7 @@ export default function Navbar() {
 					href="/"
 					className="text-2xl font-bold text-red-600 no-underline mr-2 flex items-center">
 					Hello<span className="text-black">-Bizz</span>
-					<sup className="text-lg border border-gray-900 rounded-full w-5 h-5 flex items-center justify-center ml-1 align-middle">
-						™
-					</sup>
+					<sup className="text-[6px] mb-4 text-black border-gray-900">TM</sup>
 				</Link>
 
 				<button
